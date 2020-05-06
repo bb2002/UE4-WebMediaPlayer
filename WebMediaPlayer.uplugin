@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "WebMediaPlayer",
+	"Description": "Web media player plugin.",
+	"Category": "MediaPlayers",
+	"CreatedBy": "Saint Software",
+	"CreatedByURL": "http://saintdev.kr",
+	"DocsURL": "https://bit.ly/2x38H7s",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/db587b96454f4444a95f2dec4f77998c",
+	"SupportURL": "5252bb@daum.net",
+	"EngineVersion": "4.24.0",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WebMediaPlayer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Android",
+				"Linux"
+			]
+		}
+	]
+}
